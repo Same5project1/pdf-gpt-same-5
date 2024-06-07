@@ -1,0 +1,78 @@
+.head{
+    font-size: 1.9em;
+    background-color: rgb(161, 228, 228);
+    line-height:normal;
+    
+}
+.b3{
+    text-align: center;
+   background-color: antiquewhite;
+    border-top: 1px #161414;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.8em;
+}
+.b1{
+    text-align: center;
+    background-color: rgb(219, 113, 175);
+    font-size: 1.8em;
+}
+.h1{
+    border-bottom: 1px solid black;
+}
+.table{
+    align-self: center;
+    border: 1;
+    background-color: antiquewhite;
+    margin-left: 90px;
+    margin-right: 90px;
+
+}
+
+.button{
+    background-color: rgb(208, 211, 215);
+    color: rgb(39, 72, 143);
+    padding: 3px 5px;
+    border-radius: 4px;
+    font-size: 6px;
+    cursor: pointer;
+    border: 1;
+    justify-self: center;
+}
+
+
+.img1{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+
+}
+.img1-size{
+    max-width: 100%;
+    height: 300px;
+    border: 1px solid #ddd;
+    border-color: black;
+    display: block;
+}
+
+.body{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+    margin-left: 90px;
+    margin-right: 90px;
+    background-image: url(bac.jpg);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+   
+}
+.video{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.img{
+border: 1px solid #ddd;
+border-color: black;
+
+}
